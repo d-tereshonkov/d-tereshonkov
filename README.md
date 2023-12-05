@@ -13,7 +13,7 @@
 ![Seaborn](https://img.shields.io/badge/-seaborn?style=plastic&logo=seaborn&label=seaborn) <br/>
 
 ![MS SQL](https://img.shields.io/badge/-mssql?style=flat-square&logo=microsoft%20sql%20server&label=MS%20SQL&color=blue)
-![PostgreSQL](https://img.shields.io/badge/-postgresql?style=flat-square&logo=postgresql&label=PostgreSQL&color=yellow) <br/>
+![PostgreSQL](https://img.shields.io/badge/-postgresql?style=flat-square&logo=postgresql&label=PostgreSQL&color=black) <br/>
 ![Jupyter](https://img.shields.io/badge/-jupyter?style=flat-square&logo=jupyter&label=jupyter&color=white)
 ![Tableau](https://img.shields.io/badge/-Tableau?style=flat-square&logo=Tableau&label=Tableau&color=red) 
 ![PowerBI](https://img.shields.io/badge/-Power%20BI?style=flat-square&logo=Power%20BI&label=Power%20BI&color=yellow)
