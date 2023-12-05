@@ -11,7 +11,8 @@
 ![Pandas](https://img.shields.io/badge/-pandas?style=plastic&logo=pandas&label=Pandas)
 ![Plotly](https://img.shields.io/badge/-plotly?style=plastic&logo=plotly&label=Plotly)
 ![Seaborn](https://img.shields.io/badge/-seaborn?style=plastic&logo=seaborn&label=seaborn)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib?style=plastic&logo=Matplotlib&label=Matplotlib) <br/>
+![Matplotlib](https://img.shields.io/badge/-Matplotlib?style=plastic&logo=Matplotlib&label=Matplotlib) 
+![datetime](https://img.shields.io/badge/-datetime?style=plastic&logo=datetime&label=datetime) <br/>
 
 ![MS SQL](https://img.shields.io/badge/-mssql?style=flat-square&logo=microsoft%20sql%20server&label=MS%20SQL&color=blue)
 ![PostgreSQL](https://img.shields.io/badge/-postgresql?style=flat-square&logo=postgresql&label=PostgreSQL&color=grey) <br/>
