@@ -1,7 +1,17 @@
-### Всем привет 👋 
-### Меня зовут Дмитрий и я аналитик данных.
+### Hi there 👋 
+### My name is Dmitriy and I am a data analyst.
 
-Здесь собраны некоторые реализованные проекты
+- 👨‍💻 Currently I work as a database system administrator..
+- 🏃‍♂I think the best habit is jogging in the morning..
+- 🌱 Ready to learn new things.
+
+##### Here are some of my projects:
+- [Research of advertisements for the sale of apartments] 👉 (https://github.com/d-tereshonkov/dt_portfolio)
+- [To-do list](https://github.com/o-gen18/job4j_todo)
+- [Car accident registry](https://github.com/o-gen18/job4j_car_accident)
+- [Forum](https://github.com/o-gen18/job4j_forum) 👉 ([try on Heroku](https://dry-plains-15881.herokuapp.com))
+- [Tracker](https://github.com/o-gen18/job4j_tracker)
+- [Java vacancies grabber](https://github.com/o-gen18/job4j_grabber)
 
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
