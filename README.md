@@ -8,6 +8,9 @@
 #### **Технологии, с которыми я работаю:**
 ![Python](https://img.shields.io/badge/-python?style=plastic&logo=python&logoColor=rgb&label=Python) <br/> 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%233F4F75.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
 ![MS SQL](https://img.shields.io/badge/-mssql?style=plastic&logo=microsoft%20sql%20server&label=MS%20SQL&color=blue)
 ![PostgreSQL](https://img.shields.io/badge/-postgresql?style=plastic&logo=postgresql&label=PostgreSQL&color=yellow)
 ![Anaconda](https://img.shields.io/badge/-anaconda?style=plastic&logo=anaconda&label=anaconda&color=white)
