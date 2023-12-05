@@ -10,7 +10,7 @@
 ![NumPy](https://img.shields.io/badge/-numpy?style=plastic&logo=numpy&label=NumPy)
 ![Pandas](https://img.shields.io/badge/-pandas?style=plastic&logo=pandas&label=Pandas)
 ![Plotly](https://img.shields.io/badge/-plotly?style=plastic&logo=plotly&label=Plotly)
-![Seaborn](https://img.shields.io/badge/-seaborn?style=flat-square&logo=seaborn&label=seaborn&color=purple)
+![Seaborn](https://img.shields.io/badge/-seaborn?style=plastic&logo=seaborn&label=seaborn)
 ![MS SQL](https://img.shields.io/badge/-mssql?style=flat-square&logo=microsoft%20sql%20server&label=MS%20SQL&color=blue)
 ![PostgreSQL](https://img.shields.io/badge/-postgresql?style=flat-square&logo=postgresql&label=PostgreSQL&color=yellow)
 ![Anaconda](https://img.shields.io/badge/-anaconda?style=flat-square&logo=anaconda&label=anaconda&color=white)
