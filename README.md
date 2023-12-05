@@ -6,7 +6,7 @@
 - 🌱 Готов к познанию нового.
 
 ### Технологии, с которыми я работаю:
-[Python](https://img.shields.io/badge/-python?style=plastic&logo=python&logoColor=rgb&label=python)
+![Python](https://img.shields.io/badge/-python?style=plastic&logo=python&logoColor=rgb&label=python)
 
 ### Вот некоторые из моих проектов:
 
