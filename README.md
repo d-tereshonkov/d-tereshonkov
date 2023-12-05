@@ -7,8 +7,8 @@
 
 #### **Технологии, с которыми я работаю:**
 ![Python](https://img.shields.io/badge/-python?style=flat-square&logo=python&logoColor=rgb&label=Python) <br/> 
-![NumPy](https://img.shields.io/badge/-numpy?style=flat-square&logo=numpy&label=numpy&color=purple)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-numpy?style=plastic&logo=numpy&label=numpy)
+![Pandas](https://img.shields.io/badge/-pandas?style=plastic&logo=pandas&label=pandas)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-seaborn?style=flat-square&logo=seaborn&label=seaborn&color=purple)
 ![MS SQL](https://img.shields.io/badge/-mssql?style=flat-square&logo=microsoft%20sql%20server&label=MS%20SQL&color=blue)
