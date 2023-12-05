@@ -6,7 +6,7 @@
 - 🌱 Ready to learn new things.
 
 ##### Here are some of my projects:
-- [Research of advertisements for the sale of apartments] 👉 (https://github.com/d-tereshonkov/dt_portfolio)
+- [Research of advertisements for the sale of apartments](https://github.com/d-tereshonkov/dt_portfolio)
 - [To-do list](https://github.com/o-gen18/job4j_todo)
 - [Car accident registry](https://github.com/o-gen18/job4j_car_accident)
 - [Forum](https://github.com/o-gen18/job4j_forum) 👉 ([try on Heroku](https://dry-plains-15881.herokuapp.com))
