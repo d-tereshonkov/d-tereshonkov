@@ -7,6 +7,8 @@
 
 #### **Технологии, с которыми я работаю:**
 ![Python](https://img.shields.io/badge/-python?style=plastic&logo=python&logoColor=rgb&label=python)
+![MS SQL](https://img.shields.io/badge/-mssql?style=plastic&logo=microsoft%20sql%20server&label=MS%20SQL&color=green)
+
 
 ### Вот некоторые из моих проектов:
 
