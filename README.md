@@ -6,14 +6,14 @@
 - 🌱 Готов к познанию нового.
 
 #### **Технологии, с которыми я работаю:**
-![Python](https://img.shields.io/badge/-python?style=plastic&logo=python&logoColor=rgb&label=Python) <br/> 
-![NumPy](https://img.shields.io/badge/-numpy?style=plastic&logo=seaborn&label=numpy&color=red)
+![Python](https://img.shields.io/badge/-python?style=flat-square&logo=python&logoColor=rgb&label=Python) <br/> 
+![NumPy](https://img.shields.io/badge/-numpy?style=flat-square&logo=numpy&label=numpy&color=purple)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-seaborn?style=plastic&logo=seaborn&label=seaborn&color=purple)
-![MS SQL](https://img.shields.io/badge/-mssql?style=plastic&logo=microsoft%20sql%20server&label=MS%20SQL&color=blue)
-![PostgreSQL](https://img.shields.io/badge/-postgresql?style=plastic&logo=postgresql&label=PostgreSQL&color=yellow)
-![Anaconda](https://img.shields.io/badge/-anaconda?style=plastic&logo=anaconda&label=anaconda&color=white)
+![Seaborn](https://img.shields.io/badge/-seaborn?style=flat-square&logo=seaborn&label=seaborn&color=purple)
+![MS SQL](https://img.shields.io/badge/-mssql?style=flat-square&logo=microsoft%20sql%20server&label=MS%20SQL&color=blue)
+![PostgreSQL](https://img.shields.io/badge/-postgresql?style=flat-square&logo=postgresql&label=PostgreSQL&color=yellow)
+![Anaconda](https://img.shields.io/badge/-anaconda?style=flat-square&logo=anaconda&label=anaconda&color=white)
 
 
 
